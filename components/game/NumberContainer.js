@@ -25,7 +25,6 @@ const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
     maxWidth: '70%',
-    width: 250
   },
   numberText: {
     color: Colors.accent500,
